@@ -19,7 +19,7 @@ The Suresh Raina Biography Page is a static web page built using HTML and CSS. I
 - `script.css`: CSS file for styling the HTML page.
 - `images/`: Directory containing images used in the biography page.
 
-[Visit the Biography Page](https://jacas6004.github.io/Suresh-Raina-Biography/)
+[Visit the Biography Page](https://jampana-jagadeesh.github.io/Suresh-Raina-Biography/)
 
 <p align="center">
   <img src="https://github.com/Jacas6004/Suresh-Raina-Biography/assets/152630258/8c5cd06b-b86e-47fa-8504-564f2bbe35f8" alt="Dhoni Raina Sensational Partnership GIF" width="800">
